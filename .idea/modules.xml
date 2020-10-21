@@ -4,7 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" filepath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.iml" filepath="$PROJECT_DIR$/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComponentPattern/ComponentPattern.iml" filepath="$PROJECT_DIR$/ComponentPattern/ComponentPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadePattern/FacadePattern.iml" filepath="$PROJECT_DIR$/FacadePattern/FacadePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" filepath="$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplatePattern/TemplatePattern.iml" filepath="$PROJECT_DIR$/TemplatePattern/TemplatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WatcherPattern/WatcherPattern.iml" filepath="$PROJECT_DIR$/WatcherPattern/WatcherPattern.iml" />
     </modules>
   </component>
 </project>
